@@ -1,5 +1,6 @@
-# sort_algorithms
+# Primitive Database
+Basic lecture registration system. Student-Lecture-Lecturer organizer.
 
-This repository includes sort algorithms.
+# sort_algorithms
 
 Turkish video lecture of shaker sort ---> https://www.youtube.com/watch?v=_yX7HMqrHfw
